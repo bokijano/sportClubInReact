@@ -1,0 +1,56 @@
+.custLook {
+  border: 3px solid #333;
+  border-radius: 10px;
+  background-color: lightgray;
+  padding: 10px;
+  width: 31%;
+  float: left;
+  box-shadow: 5px 5px 15px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.memberLook {
+  float: left;
+  border: 5px solid #333;
+  border-radius: 10px;
+  background-color: lightgray;
+  padding: 15px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 5px 15px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.boldering {
+  font-weight: bold;
+  background-color: #333;
+  color: white;
+  text-shadow: 1px 1px 1px;
+}
+
+.addLook {
+  float: left;
+  border: 10px solid dodgerblue;
+  border-radius: 15px;
+  width: 40%;
+  margin-left: 30%;
+  margin-left: 30%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 25px;
+  box-shadow: 5px 5px 15px;
+}
+
+.custAdd {
+  text-align: center;
+  color: dodgerblue;
+  text-shadow: 2px 2px 5px;
+}
+
+label {
+  font-weight: bolder;
+  text-shadow: 2px 2px 5px;
+}
